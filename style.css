@@ -65,3 +65,7 @@ hr {
 nav a {
   margin-right: 15px;
 }
+
+footer p {
+  text-align: center;
+}
